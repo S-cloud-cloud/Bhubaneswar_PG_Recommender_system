@@ -3,6 +3,9 @@ CONTENT BASED COLLABORATIVE FILTERING RECOMMENDER ENGINE :
 
 LINK TO DEPLOYMENT(MADE IN COLLABORATION )  :
      https://stayhub.animeshk.me
+
+DEMO RESULTS VIDEO : (GOOGLE_DRIVE_LINK) :
+   https://drive.google.com/drive/folders/1gg7Um2wldR71fCkhog4G4L_qxOeAe2Y5?usp=sharing
      
 -CODE'S FIRST PART IS A HOTEL RECOMMENDER ENGINE for europiean countries : NOT SELF MADE PROJECT
 
