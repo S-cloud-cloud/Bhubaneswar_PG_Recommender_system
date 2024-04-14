@@ -1,6 +1,7 @@
 CONTENT BASED COLLABORATIVE FILTERING RECOMMENDER ENGINE :
 
 -CODE'S FIRST PART IS A HOTEL RECOMMENDER ENGINE for europiean countries : NOT SELF MADE PROJECT
+
 -CODE'S SECOND PART IS A Bhubaneswar PG recommender system  : SELF MADE PROJECT WORK
 ( data visualisation techniques have been used to show the patterns and to draw essenses from the Bhubaneswar PG dataset(using matplotlib and sns) and for the hotel dataset ),
 in ways of scatter plot and bar graph)
