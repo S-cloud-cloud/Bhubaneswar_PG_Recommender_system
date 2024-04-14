@@ -1,6 +1,7 @@
 CONTENT BASED COLLABORATIVE FILTERING RECOMMENDER ENGINE :
 #FINAL CODE MODEL : 2_accomodation_recommender.ipynb file
-
+LINK TO FRONTEND :
+     https://stayhub.animeshk.me/aboutus
 -CODE'S FIRST PART IS A HOTEL RECOMMENDER ENGINE for europiean countries : NOT SELF MADE PROJECT
 
 -CODE'S SECOND PART IS A Bhubaneswar PG recommender system  : SELF MADE PROJECT WORK
